@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon Perl bug related to the non-guaranteed order of hash iteration.  The `bug.pl` file shows code that relies on a specific iteration order, which can lead to unexpected behavior. The `bugSolution.pl` demonstrates a solution to ensure consistent and predictable iteration.
